@@ -27,5 +27,5 @@ See: [`Household Electric Power Consumption Dataset on Kaggle`](https://www.kagg
 | LSTM | 0.251543 | 0.185157 | 21.32460 |
 
 Example forecast plot:
-![Forecast](docs/figures/forecast_plot.png)
+![Forecast](figures/Figure 1.png)
 
