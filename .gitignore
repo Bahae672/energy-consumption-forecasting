@@ -222,11 +222,6 @@ env/
 .DS_Store
 Thumbs.db
 
-# Data (if you ever download it locally)
-data/
-*.csv
-*.txt
-
 # Outputs
 outputs/
 *.pkl

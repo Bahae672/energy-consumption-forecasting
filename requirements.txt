@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+holidays
+statsmodels
+scikit-learn
+torch
