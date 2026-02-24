@@ -27,6 +27,19 @@ See: [`Household Electric Power Consumption Dataset on Kaggle`](https://www.kagg
 | LSTM | 0.251543 | 0.185157 | 21.32460 |
 
 Example forecast plot:
-![Forecast](figures/Figure 1.png)
-![Forecast](figures/Figure 2.png)
-![Forecast](figures/Figure 3.png)
+![Forecast](figures/figure_1.png)
+![Forecast](figures/figure_2.png)
+![Forecast](figures/figure_3.png)
+
+## Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Bahae672/energy-consumption-forecasting.git
+   cd energy-consumption-forecasting
+   ```
+2. Install Dependencies
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Download the dataset and place it in the same folder as the notebook. Make sure it's renamed to `household_power_consumption.txt`   
+3. Open `Energy_Consumption_Forecasting.ipynb` and run it from top to bottom
